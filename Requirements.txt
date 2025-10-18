@@ -1,7 +1,0 @@
-gradio
-supabase
-torch
-torchvision
-pillow
-numpy
-huggingface_hub
