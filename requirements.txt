@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+gradio
+supabase
+torch
+torchvision
+pillow
+numpy
+huggingface_hub
